@@ -1,9 +1,13 @@
 team: Panthers
 
 manager: Sebastian
+coach: Teddy
 
 mambers:
  - Violet
  - Stalla
  - Anthony
+<<<<<<< HEAD
  - Freddie
+=======
+>>>>>>> add-coach
